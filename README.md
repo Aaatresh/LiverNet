@@ -50,10 +50,9 @@ Contributors names and contact info:
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
-* The authors thank the department
+* The authors thank the department of 
 pathology, Kasturba Medical College (KMC) Mangalore, Manipal
 Academy of Higher Education (MAHE), Manipal, Karnataka, India,
-for contributing the liver cancer histopathology image dataset.
-* The authors thank the the Science Engi-
-neering and Research Board, Department of Science and Technology,
+for providing the liver cancer histopathology image dataset.
+* The authors thank the the Science Engineering and Research Board, Department of Science and Technology,
 Govt. of India for the grant provided to fund this research. 
