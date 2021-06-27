@@ -26,7 +26,8 @@ This repository outlines the implementation of the proposed LiverNet model in Py
 Running the program:
 * Use Jupyter Notebook or google colab to open and run each cell of the notebooks present in the 'code' folder. Instructions in the notebook guide the user through training and testing the network.
 ```
-cd LiverNet/code [in linux]
+# [in linux]
+cd LiverNet/code 
 jupyter notebook
 ```
 
