@@ -31,6 +31,10 @@ cd LiverNet/code
 jupyter notebook
 ```
 
+### Model weights
+The fold-wise trained model weights are available in the 'weights' folder for both KMC and TCGA datasets.
+
+
 ## Dataset
 To request access to the datasets used in our work, please contact Prof. Shyam Lal ([shyam.mtec@gmail.com](mailto:shyam.mtec@gmail.com)).
 
