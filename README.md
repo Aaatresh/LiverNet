@@ -10,7 +10,7 @@ This repository outlines the implementation of the proposed LiverNet model in Py
 ## Getting Started
 
 ### Dependencies
-* TensorFlow = 2.5
+* TensorFlow = 2.3
 * OpenCV = 4.1
 * Numpy = 1.19
 * Scikit-learn = 0.22
