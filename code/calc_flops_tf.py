@@ -1,4 +1,9 @@
 def get_flops():
+    """
+        Function to calculate the number of floating point operations per second.
+        This is used to measure the efficiency of the deep neural networks.
+    """
+
     session = tf.compat.v1.Session()
     graph = tf.compat.v1.get_default_graph()
 
